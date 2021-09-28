@@ -16,4 +16,4 @@ Requirements:
 
 !Issues:
 - For some reason unbeknownst to me, some tests fail when all test files executed in batch (i.e. via 'mocha test'). Running them separately one by one allows to avoid this.
-- To be tested on devices with Full HD displays. When run on devices with smaller screens (especially by height), some tests may fil due to elements overlap.
+- To be tested on devices with Full HD displays. When run on devices with smaller screens (especially by height), some tests may fail due to elements overlap.
